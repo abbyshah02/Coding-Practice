@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+//Find the contiguous subarray with the maximum sum
+
 void largestSum(int arr[], int size)
 {
     int max_so_far = 0;
